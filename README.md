@@ -9,4 +9,4 @@ We will explain the stages of the project :
 - The 'Data_Preprocessing.ipynb' notebook is used to clean , convert to spacy format and split to train and test dataset.
 - The 'Predictions.ipynb' notebook is used to train and  predict the cataegorie of the text like Web , Phone , Name , Org ... , the output is a two folders : best model  and last model
 - The 'Document_scanner.ipynb' notebook is used to scan the input image and resize .
--For the deployment you should install Flash and run the main.py 
+-For the deployment you should install Flash , download the Zip file 'flask deploy' , extract it  and run the main.py 
